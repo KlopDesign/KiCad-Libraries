@@ -1,2 +1,2 @@
 # KiCad-Libraries
-My own library files for KiCad
+My own made library files for KiCad
