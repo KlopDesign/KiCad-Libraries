@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIM7020_DevBoard
+F http://www.mt-system.ru/sites/default/files/docs/simcom/docs/sim7020e/sim7020_hardware_design_v1.02.pdf
+$ENDCMP
+#
+#End Doc Library
